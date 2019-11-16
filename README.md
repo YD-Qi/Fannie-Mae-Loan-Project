@@ -26,5 +26,5 @@ As always, in dealing with real world data, the first step is to clean up the da
 ## Exploratory Data Analysis
 see the code in the Jupyter Notebook
 
-## EMachine Learning to predict Loan Default
+## Machine Learning to predict Loan Default
 see the code in the Jupyter Notebook
